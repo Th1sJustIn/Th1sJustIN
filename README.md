@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Justin! 👋
 
 <!--
 **Th1sJustIn/Th1sJustIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
